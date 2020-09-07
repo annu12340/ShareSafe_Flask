@@ -1,8 +1,8 @@
-# Mini medium 
+# Share Safe
 
 In today's world, fake news is spreading as fast as wild fire. As people continue to share and re share these fake news, it becomes difficult to keep track of it and trace it's origin. But using a blockchain network, would help us combact this situtation
 
-This is a minature version of the medium app, where users can create post, like, dislike and share them. The platform also allows users to follow each other. (When a post is created, a new node is added in the block chain and when the post is shared by user, it would be recorded as transcation in the bc network. The blockchain feature of the platform is still in progress)
+This is a minature version of the social network platform, where users can create post, like, dislike and share them. The platform also allows users to follow each other. (When a post is created, a new node is added in the block chain and when the post is shared by user, it would be recorded as transcation in the bc network. The blockchain feature of the platform is still in progress)
 
 
 #### Tech stack
